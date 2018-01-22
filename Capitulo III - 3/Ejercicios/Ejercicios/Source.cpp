@@ -84,7 +84,7 @@ int main() {
 	//Ejercicio 7
 	string str1, str2, str3;
 	string str_menor, str_medio, str_mayor;
-	cout << "Ingresa tres valores: " << endl;
+	cout << "Ingresa tres nombres: " << endl;
 	cin >> str1;
 	cin >> str2;
 	cin >> str3;
@@ -161,16 +161,13 @@ int main() {
 	}
 	cin.ignore();
 	cin.get();
+
 	//ejercicio 10
 	string operacion;
 	int numero1;
 	int numero2;
-	cout << "Escribe el signo de una operacion (+,-,*,/)" << endl;
-	cin >> operacion;
-	cout << "Escribe el primer numero" << endl;
-	cin >> numero1;
-	cout << "Escribe el segundo numero a operar: " << endl;
-	cin >> numero2;
+	cout << "Escribe una operacion con el operando primero y dos numeros despues, por ejemplo; (+ 2 3)" << endl;
+	cin >> operacion >> numero1 >> numero2;
 	if (operacion == "+") {
 		cout << "El resultado es: " << numero1 + numero2 << endl;
 	}
@@ -188,6 +185,7 @@ int main() {
 	}
 	cin.ignore();
 	cin.get();
+
 	//Ejercicio 11
 	cout << "Vamos a contar tus monedas" << endl;
 	int unPeso, dosPesos, cincoPesos, diezPesos, veintePesos, cincuentaPesos;
