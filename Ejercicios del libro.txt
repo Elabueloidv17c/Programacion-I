@@ -1,0 +1,403 @@
+Capitulo I
+
+1.-¿Qué es software?
+	Una colección de programas corriendo en una computadora
+
+
+2.- ¿Por qué es importante?
+	Porque está en millones de computadoras en todo el mundo, todos estamos rodeados de ellas y las usamos en nuestro día a día
+
+
+3.- ¿Dónde es importante el software?
+	En muchos lugares, desde un reloj o una calculadora, hasta barcos de transporte, las turbinas de un avion o incluso las
+	transmisiones de la NASA
+
+
+4.- ¿Qué puede pasar si un software falla?
+	La gente puede enojarse o incluso salir lastimada, para ejemplificar esto último:
+	a) Si el software de un avión falla en pleno vuelo, esto podría provocar que el avión pierda el control.
+	b) Si el software de un CAT falla, esto podría resultar en la muerte del paciente.
+
+
+5.- ¿Dónde juega un papel importante el software?
+	En cualquier computadora, tales como nuestro celular, televisor, tablet, laptop, PC, Automovil o calculadora.
+	Además de esto, las computadoras están presentes en el transporte local, nacional e internacional, en autobuses,
+	trenes, aviones o barcos.
+
+
+6.- ¿Cuáles son algunos de los trabajos relacionados con el desarrollo de software?
+	a)Redes de comunicación en la NASA
+	b)Maquinas que ayuden a los medicos a operar pacientes
+	c)Telecomunicaciones para teléfonos
+	d)Software para bio
+
+
+7.-¿Cuál es la diferencia entre ciencia computacional y programación?
+	La programación es solo una rama de la ciencia computacional, está dedicada exclusivamente a la escritura de código.
+	La ciencia computacional es una ciencia que estudia sistemas computacionales, usa teorías de entendimiento
+	de sistemas computacionales y metodos de diseño, algoritmos, herramientas, además de metodos de testeo, 
+	análisis o verificación, todo esto tanto en el lado teorico como en la implementacion.
+
+
+8.- ¿Para qué se usa el software en el diseño, construcción y uso de un barco?
+	Diseño: El diseño general de la máquina (incluyendo el motor) son diseñados usando un software, los planos, los calculos y las
+	simulaciones de rendimiento de cada parte.
+	Construcción: El ensamble del barco se calcula minusiosamente por un software, una vez listo, la implementacion de esto
+	la controla un software.
+	Uso: Un barco está lleno de computadoras que requieren un software para funcionar, empezando por el motor, el manejo de las 
+	rutas de entrega, la capacidad de almacenamiento, etc.
+
+
+9.- ¿Qué es una granja de servidores?
+	Es una colección de computadoras que prestan servicios web, tales como el juego en linea, los motores de busqueda o los
+	bancos de almacenamiento de datos en la nube.
+
+
+10.- ¿Qué tipo de consultas haces online?
+	a) Los horarios de vuelos o viajes en autobus.
+	b) El horario de atención de cualquier servicio.
+	c) La ubicación y el horario de cualquier negocio.
+	d) El saldo de mi tarjeta.
+	e) Fechas de acontecimientos importantes.
+	f) Personajes historicos Importantes.
+
+
+11.- ¿Cuáles son algunos de los usos del software en la ciencia?
+	a) Simulaciones de físicas
+	b) Diseño y fabricación de instrumentos de observacion y medicion.
+
+
+12.- ¿Cuáles son algunos de los usos del software en la medicina?
+	a) Manejo de sistemas de monitoreo
+	b) Sistemas para maquinas que ayuden en las operaciones.
+
+
+13.- ¿Cuáles son algunos de los usos del sofware en el entretenimiento?
+	a) Los programas de reproducción de video en los que vemos las películas o series
+	b) Los videojuegos que jugamos en multiples dispositivos electronicos.
+	c) Los reproductores de música
+
+
+14.- ¿Qué propiedades en general buscamos de un buen software?
+	Que esté bien diseñado, bien optimizado y que haga lo que tiene que hacer
+
+
+15.-¿Cómo se ve un desarrollador de software?
+	Como cualquier otra persona (ciertamente no como un gordo nerd)
+
+16.- ¿Cuáles son las fases del desarrollo de software?
+	a) Análisis
+	b) Diseño
+	c) Programación
+	d) Testeo
+
+
+17.- ¿Por qué el desarrollo de software puede ser difícil?
+	Porque las computadoras son escencialmente sencillas, en otras palabras, son estúpidas, y el programador debe hacer que
+	la computadora haga lo que debe hacer, por eso debe pensar en la manera de resolver sistemas complejos usando un sistema tan simple.
+
+
+18.- ¿Cuáles son algunos de los usos del software que sirven para hacer nuestra vida mejor?
+	Organizadores de agendas, alarmas, computadoras, etc. 
+	Prácticamente cualquier dispositivo con software está diseñado para facilitarnos la vida
+
+
+19.- ¿Cuáles son algunos de los usos del software que hacen nuestra vida más difícil?
+	Desde la perspectiva del programador, resolver problemas complejos e implementarlos.	
+----------------------------------------------------------------------------------------------------------------------------------
+
+Ejercicios:
+
+1.- Ir a la escuela:
+	a) El despertador (para despertar)
+	b) El mocroondas y la licuadora (para hacer desayuno)
+	c) El camión (para llegar a la escuela)
+	d) Las computadoras (para las clases de modelado y programación)
+
+2.- Arquitectura
+	a) Crear planos (Se hacen en programas como Autocad)
+	b) Renders 3D (Se usan softwares como Artlantis)
+	c) Maquetas (Se requieren impresoras 3D)
+	d) Implementación (La construcción requiere diversas máquinas como gruas, aplanadoras, etc.)
+
+
+3.- ...
+
+4.- Los videojuegos
+
+5.-Programas:
+	a) Visual Studio
+	b) Maya
+	c) Zbrush
+	d) Steam
+	d) Android
+	e) Game Maker
+	f) itunes
+	g) Microsft Office
+	h) Calculadora
+	i) Cámara digital
+
+6.- 10 Actividades:
+
+	1.- Correr
+	2.- Ver el cielo
+	3.- Nadar
+	4.- Caminar
+	5.- Soñar
+	6.- Saltar
+	7.- Bañarte en el mar
+	8.- Montar a caballo
+	9.- Hacer castillos de arena
+	10.- ... Respirar ¿?
+	(No mames, está bien cabrona esta xD)
+
+7.- 5 tareas:
+	1) Cocineros: En un futuro no muy lejano habrá maquinas que se encarguen de cocinar en restaurantes, esto haría el servicio
+	   más rápido y eficiente
+	2) Limpieza del hogar: En algún momento habrá robots que hagan la limpieza general del hogar, cosas como sacudir y limpiar
+	   piso.
+	3) Salones de belleza automatizados: En el futuro existirán salones de belleza en los cuáles haya un catálogo de peinados
+	   y cortes, el usuario elegirá cuál quiere y una máquina se encargue de hacerlo.
+	   Esto haría que el servicio sea mucho más rápido y eficiente, para que la gente no tenga que hacer tantas colas para un
+	   corte
+	4) Compañía: Pronto habrá robots que se encarguen de hacerle compañía a la gente, serán una especie de amigos roboticos 
+	   (o parejas) esto solucionaría el problema de soledad de muchas personas, quizá podría ser ella/él mismo quien se
+	   encargue del aseo ¿no?
+	5) Arte: En algún momento no muy lejano habrá software y hardware que se encargue de producir todo tipo de arte de manera
+	   automatizada, quizá pinturas, esculturas, o hasta películas, animaciones, o videojuegos.
+
+8.- Argumentos para ser programador:
+	Me gustaría ser programador para desarrollar todo tipo de software que ayude a facilitar las tareas de los seres humanos 
+	en cualquier campo, tal vez aplicaciónes para celular que ayuden a las tareas cotidianas o programas de computadora que
+	faciliten actividades profesionales.
+	Sería muy interesante crear simulaciones físicas o químicas que ayuden en la ciencia de alguna forma.
+	Otra de las aplicaciones que podría darle a esta profesión sería el ocio digital en general, aunque mi principal objetivo
+	es la programación de videojuegos, podrían ser serios (como simuladores para médicos, astronautas, militares y demás) o
+	videojuegos comerciales enfocados solamente en el entretenimiento.
+
+
+9.- Argumentos para ser diseñador:
+	Me llama mucho la atención el diseño de software desde el concepto, sobre todo la parte de las interfaces de usuario,
+	ya que son la parte con la que el usuario interactua de manera directa y un buen diseño hace que la experiencia sea 
+	mucho mejor.
+	En el caso de los videojuegos también me llama mucho el lado creativo, el diseño de juegos es una rama muy interesante,
+	ya que te permite expresar tus ideas con total libertad, como cualquier otro tipo de arte, a nivel de mecánicas de juego 
+	se busca divertir e innovar y eso es un reto muy grande hoy en día, ya que existe una cantidad enorme de alternativas en 
+	el mercado, pero estoy convencido de poder aportar mi granito de arena.
+
+10.- ¿Robots inteligentes?
+	Creo que algún día las inteligencias artificiales serán capaces de pensar justo como nosotros o incluso mejor, esto podría
+	llegar a ser un problema para nosotros, ya que las computadoras pueden procesar información mucho más rápido, si les damos
+	la capacidad de razonar de la misma forma que nosotros lo hacemos, no tendremos ningúna ventaja sobre ellos.
+
+11.- Caracteristicas de programadores exitosos
+	Saben trabajar en equipo, complementan sus conocimientos de programación con otros, que sirvan para hacer mejores 
+	abstracciones, tienen buen razonamiento lógico, saben hacer buen uso de los recursos del hardware, se preocupan por
+	las demás ramas del diseño del software, no solo de la programación.
+	La gente asume que son freaks, gordos y solitarios...
+
+
+12.- 5 Applicaciones de software:
+	1) Relojes
+	2) Servidores
+	3) Diseño de barcos
+	4) Herramientas para medicos
+	5) Comunicaciones en la NASA
+	
+	Me encantaría poder trabajar algún día en el diseño de software para la NASA, crear simuladores para los astronautas,
+	calculos para los proyectos de exploración espacial, software para todo tipo de herramientas y comunicaciones a largas
+	distancias.
+
+
+13.- ¿Cuanta memoria usaría...?
+2,500 bytes
+50,000 bytes
+15,000,000 bytes
+
+14.- ¿Cuánta memoria tiene mi computadora?
+	16 GB de RAM
+	 6 GM de VRAM
+	931 GB de HDD
+	118 GB de SSD
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+Capitulo II
+
+
+Analisis:
+
+1.- ¿Cuál es el objetivo del programa "Hello world"?
+	Enseñarnos la estructura básica de un programa en c++, con cosas como la inclusiónn de librerías externas o la función main,
+	así como los tipos de datos o el valor de retorno
+
+2.- Nombra las 4 partes de una funcion:
+	1.-Tipo de dato
+	2.-Nombre de la funcion
+	3.-Parametros
+	4.-Llaves (dentro de estas van las instrucciones)
+
+3.-¿Funcion que debe aparecer en cualquier prograa c++?
+	La funcion main
+
+4.- ¿Cuál es el proposito de return 0;?
+	Es el valor de retorno, la funcion main es de tipo entero, por tanto es necesario regresar un numero entero como resultado de la misma
+
+5.- ¿Cuál es el proposito de un compilador?
+	Es el encargado de convertir el código fuente (lo que el programador escribe) en un lenguaje que la computadora pueda entender y ejecutar
+
+6.-¿Cuál es el proposito de #include?
+	Sirve para incluir lineas de código externas a código local, con el proposito de añadir funciones extra al mismo.
+
+7.-¿Qué es el sufijo .h en un archivo de c++?
+	Es el tipo de archivo del que provienen las librerías que se pueden importar con #include, estos archivos contienen funciones extra para nuestro código
+
+8.-¿Qué hace un linker?
+	Conecta el código escrito por nosotros con las librerías externas para que funcionen en el programa final
+
+9.-¿Cuál es la diferencia entre código fuente y archivo fuente?
+	El código fuente es lo que el programador escribe, el archivo fuente es el resultado de la compilación de este código
+
+10.- ¿Qué es un IDE y para qué sirve?
+	Es un editor de tecto que tiene herramientas que ayudan a facilitar la escritura de código, así como su compilacion
+
+11.-Si entiendo todo lo del libro ¿necesito practicar?
+	Claro que sí, de nada sirve entender la teoría si no se practica, es así cuando realmente aprendes, ya que te encuentras con problemas y buscas soluciones.
+	ese es el verdadero trabajo de un programador
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Ejercicios:
+
+1.- En el codigo...
+
+2.- En el codigo...
+
+3.- Instrucciones para ir de la puerta de la cas aa la puerta de la escuela:
+
+	Gira 90° a la derecha
+	Camina en linea recta hasta que topes con pared
+	Gira 90° a la izquierda
+	Camina en linea recta hasta que estés a punto de llegar a la calle (pequeño escalon hacia abajo)
+	Gira 90° a la derecha
+	Camina en linea recta hasta que estés a punto de llegar a la calle (pequeño escalon hacia abajo)
+	Gira 90° a la derecha
+	Camina siguiendo el camino hasta que estés a punto de llegar a la calle (pequeño escalon hacia abajo)
+	Observa si hay algún vehículo en movimiento dirigiense hacia ti
+	Si no lo hay, baja el escalón y continua caminando
+	Cuando llegues al escalón del otro lado
+	Subelo y continúa caminando
+	Camina siguiendo el camino hasta que estés a punto de llegar a la calle (pequeño escalon hacia abajo)
+	Gira 90° a la derecha
+	Camina siguiendo el camino hasta que estés a punto de llegar a la calle (pequeño escalon hacia abajo)
+	Gira 90° a la izquierda
+	Espera a que un autobus color verde con el numero 640 esté en tu campo de vision
+	Levanta la mano hasta que el autobus se detenga
+	Camina en linea recta hacia la puerta del autobus y sube los escalones
+	Pagale $7.00 pesos al chofer
+	Gira 90° a la izquierda
+	Camina en linea recta buscando un asiento vacío
+	Cuando veas uno dirigete hacia él y sientate
+	Si no hay ninguno gira 90° hacia la derecha, levanta tus brazos y agarra el tubo que hay arriba
+	Cuando veas la glorieta de los maestros acercate al chofer y dile "bajan"
+	Cuando el camión se detenga gira a la derecha, camina hacia adelante y baja los escalones
+	Gira 180°, verifica si hay algún vehículo en movimiento dirigiense hacia ti
+	Si no, camina hacia adelante
+	Cuando llegues al escalon del otro lado subelo y continua caminando
+	Cuando llegues a una puerta blanca metalica metálica que estará a tu izquierda
+	Gira 90° a la izquierda y da un paso adelante
+	Has llegado a la puerta de la escuela
+
+4.- Receta:
+
+	
+	Tostadas con carne
+
+	Ingredientes
+	(Rinde para 4 tostadas)
+
+	1) 750 grms falda de res
+    	2) 3 hojas laurel
+   	3) 3 dientes ajo
+    	4) 1/2 cebolla
+    	5) 1 lechuga
+   	6) 3 tomates
+    	7) 2 limones
+    	8) 10ml de aceite de oliva
+    	9) 3g de orégano seco
+    	10) 2g de sal
+    	11) 2g Pimienta
+    	12) 500ml de agua
+    	13) 100 g de queso fresco rallado
+    	14) 1 paquete grande (240 g) de tostadas hornadas
+    	15) 1 botella de 
+
+	Pasos:
+
+	Parte la carne en cubos de 2cm con un cuchillo
+	Ponlos en una olla de presion
+	Pon 300ml agua en un vaso y agregala a la olla     
+	Con una cuchara, agrega las tres hojas de laurel a la olla
+	Con tus manos toma los 3 dientes de ajo y agregalos a la olla
+	Con un cuchillo parte la cebolla a la mitad, luego con tus manos toma media cebolla y agregala a la olla
+	Con tus manos toma los 2g de sal y agregalos a la olla
+	Ponle la tapa a la olla
+	Enciende la estufa con el encendedor
+	Dejalo cocinar por 30 minutos
+	Mientras la carne se cocina
+	Con un cuchillo parte los tomates en rodajas de 1/2cm
+	Con un cuchillo parte la otra mitad de la cebolla en rodajas de 1/2cm
+	Parte la lechuga con un cochillo en rodajas de 0.25cm
+	Pon los 300ml de agua restantes en un recipiente de al menos 30cm de diametro
+	Mete la lechuga al recipiente con el agua y agrega 3 gotas de microdyn
+	Exprime los dos limones y pon su jugo en un vaso
+	Cuando hayan pasado los 30 minutos desde que encendiste la estufa, apagala
+	Destapa la olla y saca la carne con una cuchara de cocina
+	Con tus manos desmenuza la carne
+	Quitale el agua a la olla en la que cocinaste la carne
+	Vuelve a poner la carne en la olla
+	Saca la lechuga del agua con tus manos, estilala y agregala a la olla
+	Toma las rodajas de tomate con las manos y agregalas a la olla
+	Toma las rodajas de cebolla con las manos y agregalas a la olla
+	Toma con las manos el baso con jugo de limon y vacía el jugo en la olla
+	Con tus manos desmenuza el queso mientras lo agregas a la olla
+	Toma el recipiente con los 10ml de aceite de oliva y vacíalo en la olla
+	Con tus manosagrega a la olla los 3g de oregano seco
+	Con una cuchara de cocina revuelve todos los ingresientes de la olla
+	Pon tres tostadas horneadas con tus manos en un plato extendido
+	Con la cuchara de cocina toma una porción de carne preparada y ponla sobre una tostada
+	Repite esto dos veces más para las otras dos tostadas
+
+  	Provecho!
+
+	Glosario:
+	Desmenuzar: Frotar con tus dedos un objeto para despedazarlo.
+	Olla de presión: olla diseñada con una tapa que tiene sello hermetico que no deja salir el aire para que los ingredientes se cocinen más rápido
+
+5.-Terminos:
+
+	//: Es el termino que se usa para que el compilador ignore el texto que hay después de él, esto sirve para escribir comentarios para los programadores
+	<<: Es el termino que se utiliza para indicarle al compilador que el texto siguiente es un parametro de salida, se escribe después de un "cout"
+	C++: Es un lenguaje de programación en el que una persona escribe instrucciones para una computadora
+	Comentario:	Es el texto que el compilador ignora, está hecho para que los programadores se guien
+	Compile-time error: Es el error que un IDE te devuelve cuando hay un error al intentar compilar el código
+	Cout:	Es la palabra reservada de la librería iostream que sirve para expresar parametros de salida
+	Executable: Es el archivo que resulta de la compilación, sirve para correr el programa
+	Funcion: Es un conjunto de instrucciones diseñado para hacer una tarea en específico, puede ser "llamado" por el programador cuantas veces quiera
+	Header: Es una directriz que sirve para incluir archivos externos al codigo que hacen accesibles funciones extra al programa
+	IDE: Es un editor de tecto que tiene herramientas que ayudan a facilitar la escritura de código, así como su compilacion
+	#include: Es la sintaxis para incluir librerías al código
+	Librería: Es una serie de funciones externs que pueden ser añadidas al código para añadir funciones
+	Linker:	Es la parte que se encarga de conectar el código local con las librerías externas y así compilar todas las funciones del mismo en el ejecutable
+	main (): Es la funcion que se ejecuta primero en un programa en c++, de hecho es obligatorio incluirla en nuestros códigos
+	Source Code: Es el código que el programador escribe de manera local
+	Output:	Es Cualquier tipo de dato de salida que se muestea por pantalla.
+	Source Code: Es el código que un humano puede entender, es decir, es lo previo a la traducción a lenguaje de máquina
+	Programa: Es el resultado del proceso de compilación, dicho de otra forma, es el programa terminado listo para ser usado por la gente
+	Declaracion: Es el nombre que se le da al momento en el que se crea cualquier variable, función o argumento, sirve para asignarle un espacio en la memoria.
+
+***********************************************************************************************************************************
+***********************************************************************************************************************************
+
+Capitulo III
