@@ -1,10 +1,10 @@
 #include "std_lib_facilities.h"
 #include "Capitulo 4.h"
 #include "Capitulo 5.h"
+#include "Capitulo 6.h"
 
 
-int main()
-{
+int main(){
 	cout << "Que capitulo quieres ver?" << endl;
 	cout << "4.- Capitulo 4" << endl;
 	cout << "5.- Capitulo 5" << endl;
@@ -90,9 +90,31 @@ int main()
 		cout << "1.- Drill" << endl;
 		cin >> opcion;
 		if (opcion == 1)
-			drill_6();
-		else
-			cout << "Operacio invalida" << endl;
+			try {
+				while (cin) {
+					Token t = ts.get();
+					if (t.kind == 'q') 
+						break; // 'q' for quit
+					if (t.kind == ';')        // ';' for "print now"
+						cout << "=" << val << '\n';
+					else
+						ts.putback(t);
+					val = expression();
+				}
+				keep_window_open();
+			}
+			catch (exception& e) {
+				cerr << "error: " << e.what() << '\n';
+				keep_window_open();
+				return 1;
+			}
+			catch (...) {
+				cerr << "Oops: unknown exception!\n";
+				keep_window_open();
+				return 2;
+			}
+			else
+				cout << "Operacio invalida" << endl;
 	}
 	return 0;
 }
