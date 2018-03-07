@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\predator g9-593-78\source\repos\examen segundo parcial\examen segundo parcial\source.cpp(18): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\predator g9-593-78\source\repos\examen segundo parcial\examen segundo parcial\source.cpp(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\predator g9-593-78\source\repos\examen segundo parcial\examen segundo parcial\source.cpp(37): warning C4018: '<': no coinciden signed/unsigned
+c:\users\predator g9-593-78\source\repos\examen segundo parcial\examen segundo parcial\source.cpp(51): warning C4018: '<': no coinciden signed/unsigned
+  Examen segundo parcial.vcxproj -> C:\Users\PREDATOR G9-593-78\source\repos\Examen segundo parcial\Debug\Examen segundo parcial.exe
